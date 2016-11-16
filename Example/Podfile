@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Inilan_Example' do
+  pod 'Inilan', :path => '../'
+
+  target 'Inilan_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
