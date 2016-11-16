@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Inilan'
-  s.version          = '0.1.1'
+  s.version          = '1.0.0'
   s.summary          = 'Inilan Inilan Inilan.'
   s.description      = <<-DESC
                         Trying out cocoapods with Inilan
