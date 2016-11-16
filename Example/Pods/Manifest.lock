@@ -1,0 +1,16 @@
+PODS:
+  - Inilan (0.1.0)
+
+DEPENDENCIES:
+  - Inilan (from `../`)
+
+EXTERNAL SOURCES:
+  Inilan:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Inilan: 1107aaf7337e7c16cd81989200e850a3856440e8
+
+PODFILE CHECKSUM: 02509a42fa58cd409f02ef72e7668b35de4437d4
+
+COCOAPODS: 1.0.0

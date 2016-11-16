@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4510E546216DCA64A7F2AD7AAA2716E4FF6B303F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4510E546216DCA64A7F2AD7AAA2716E4FF6B303F" : 9223372036854775807,
+    "FCB7588D694127C56D07C7F118CFA6203480794A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F8BDAF2F-6F8B-4474-9279-F74E5B5ABFCA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4510E546216DCA64A7F2AD7AAA2716E4FF6B303F" : "Inilan\/",
+    "FCB7588D694127C56D07C7F118CFA6203480794A" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Inilan",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/Inilan.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Vashum\/Inilan.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4510E546216DCA64A7F2AD7AAA2716E4FF6B303F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Vashum\/VashumPodding.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FCB7588D694127C56D07C7F118CFA6203480794A"
+    }
+  ]
+}

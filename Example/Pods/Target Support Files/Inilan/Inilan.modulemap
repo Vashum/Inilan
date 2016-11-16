@@ -1,0 +1,6 @@
+framework module Inilan {
+  umbrella header "Inilan-umbrella.h"
+
+  export *
+  module * { export * }
+}
